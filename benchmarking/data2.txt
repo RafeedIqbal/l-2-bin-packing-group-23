@@ -1,0 +1,199 @@
+N4C2W2_A.BPP.txt WorstPossible: Mean +- std dev: 143 ns +- 4 ns
+
+N4C2W2_B.BPP.txt WorstPossible: Mean +- std dev: 145 ns +- 4 ns
+
+N4C2W2_C.BPP.txt WorstPossible: Mean +- std dev: 146 ns +- 5 ns
+
+N4C2W2_D.BPP.txt WorstPossible: Mean +- std dev: 145 ns +- 4 ns
+
+N4C2W2_E.BPP.txt WorstPossible: Mean +- std dev: 145 ns +- 4 ns
+
+N4C2W2_F.BPP.txt WorstPossible: Mean +- std dev: 147 ns +- 6 ns
+
+N4C2W2_G.BPP.txt WorstPossible: Mean +- std dev: 147 ns +- 4 ns
+
+N4C2W2_H.BPP.txt WorstPossible: Mean +- std dev: 144 ns +- 3 ns
+
+N4C2W2_I.BPP.txt WorstPossible: Mean +- std dev: 148 ns +- 11 ns
+
+N4C2W2_J.BPP.txt WorstPossible: Mean +- std dev: 145 ns +- 3 ns
+
+N4C2W2_K.BPP.txt WorstPossible: Mean +- std dev: 144 ns +- 4 ns
+
+N4C2W2_L.BPP.txt WorstPossible: Mean +- std dev: 144 ns +- 3 ns
+
+N4C2W2_M.BPP.txt WorstPossible: Mean +- std dev: 144 ns +- 3 ns
+
+N4C2W2_N.BPP.txt WorstPossible: Mean +- std dev: 145 ns +- 5 ns
+
+N4C2W2_O.BPP.txt WorstPossible: Mean +- std dev: 144 ns +- 2 ns
+
+N4C2W2_P.BPP.txt WorstPossible: Mean +- std dev: 145 ns +- 6 ns
+
+N4C2W2_Q.BPP.txt WorstPossible: Mean +- std dev: 143 ns +- 2 ns
+
+N4C2W2_R.BPP.txt WorstPossible: Mean +- std dev: 144 ns +- 4 ns
+
+N4C2W2_S.BPP.txt WorstPossible: Mean +- std dev: 144 ns +- 3 ns
+
+N4C2W2_T.BPP.txt WorstPossible: Mean +- std dev: 144 ns +- 3 ns
+
+N4C2W2_A.BPP.txt FirstFit: Mean +- std dev: 144 ns +- 3 ns
+
+N4C2W2_B.BPP.txt FirstFit: Mean +- std dev: 144 ns +- 3 ns
+
+N4C2W2_C.BPP.txt FirstFit: Mean +- std dev: 144 ns +- 3 ns
+
+N4C2W2_D.BPP.txt FirstFit: Mean +- std dev: 143 ns +- 2 ns
+
+N4C2W2_E.BPP.txt FirstFit: Mean +- std dev: 143 ns +- 5 ns
+
+N4C2W2_F.BPP.txt FirstFit: Mean +- std dev: 145 ns +- 6 ns
+
+N4C2W2_G.BPP.txt FirstFit: Mean +- std dev: 142 ns +- 3 ns
+
+N4C2W2_H.BPP.txt FirstFit: Mean +- std dev: 143 ns +- 3 ns
+
+N4C2W2_I.BPP.txt FirstFit: Mean +- std dev: 142 ns +- 4 ns
+
+N4C2W2_J.BPP.txt FirstFit: Mean +- std dev: 141 ns +- 2 ns
+
+N4C2W2_K.BPP.txt FirstFit: Mean +- std dev: 144 ns +- 4 ns
+
+N4C2W2_L.BPP.txt FirstFit: Mean +- std dev: 142 ns +- 4 ns
+
+N4C2W2_M.BPP.txt FirstFit: Mean +- std dev: 144 ns +- 4 ns
+
+N4C2W2_N.BPP.txt FirstFit: Mean +- std dev: 142 ns +- 3 ns
+
+N4C2W2_O.BPP.txt FirstFit: Mean +- std dev: 143 ns +- 3 ns
+
+N4C2W2_P.BPP.txt FirstFit: Mean +- std dev: 142 ns +- 3 ns
+
+N4C2W2_Q.BPP.txt FirstFit: Mean +- std dev: 144 ns +- 8 ns
+
+N4C2W2_R.BPP.txt FirstFit: Mean +- std dev: 143 ns +- 4 ns
+
+N4C2W2_S.BPP.txt FirstFit: Mean +- std dev: 142 ns +- 4 ns
+
+N4C2W2_T.BPP.txt FirstFit: Mean +- std dev: 143 ns +- 5 ns
+
+N4C2W2_A.BPP.txt BestFit: Mean +- std dev: 165 ns +- 7 ns
+
+N4C2W2_B.BPP.txt BestFit: Mean +- std dev: 163 ns +- 3 ns
+
+N4C2W2_C.BPP.txt BestFit: Mean +- std dev: 163 ns +- 5 ns
+
+N4C2W2_D.BPP.txt BestFit: Mean +- std dev: 165 ns +- 6 ns
+
+N4C2W2_E.BPP.txt BestFit: Mean +- std dev: 163 ns +- 5 ns
+
+N4C2W2_F.BPP.txt BestFit: Mean +- std dev: 164 ns +- 7 ns
+
+N4C2W2_G.BPP.txt BestFit: Mean +- std dev: 163 ns +- 7 ns
+
+N4C2W2_H.BPP.txt BestFit: Mean +- std dev: 162 ns +- 2 ns
+
+N4C2W2_I.BPP.txt BestFit: Mean +- std dev: 164 ns +- 7 ns
+
+N4C2W2_J.BPP.txt BestFit: Mean +- std dev: 167 ns +- 9 ns
+
+N4C2W2_K.BPP.txt BestFit: Mean +- std dev: 164 ns +- 4 ns
+
+N4C2W2_L.BPP.txt BestFit: Mean +- std dev: 167 ns +- 9 ns
+
+N4C2W2_M.BPP.txt BestFit: Mean +- std dev: 161 ns +- 3 ns
+
+N4C2W2_N.BPP.txt BestFit: Mean +- std dev: 167 ns +- 9 ns
+
+N4C2W2_O.BPP.txt BestFit: Mean +- std dev: 163 ns +- 3 ns
+
+N4C2W2_P.BPP.txt BestFit: Mean +- std dev: 162 ns +- 4 ns
+
+N4C2W2_Q.BPP.txt BestFit: Mean +- std dev: 167 ns +- 11 ns
+
+N4C2W2_R.BPP.txt BestFit: Mean +- std dev: 162 ns +- 4 ns
+
+N4C2W2_S.BPP.txt BestFit: Mean +- std dev: 164 ns +- 5 ns
+
+N4C2W2_T.BPP.txt BestFit: Mean +- std dev: 163 ns +- 4 ns
+
+N4C2W2_A.BPP.txt WorstFit: Mean +- std dev: 164 ns +- 6 ns
+
+N4C2W2_B.BPP.txt WorstFit: Mean +- std dev: 165 ns +- 8 ns
+
+N4C2W2_C.BPP.txt WorstFit: Mean +- std dev: 164 ns +- 5 ns
+
+N4C2W2_D.BPP.txt WorstFit: Mean +- std dev: 165 ns +- 8 ns
+
+N4C2W2_E.BPP.txt WorstFit: Mean +- std dev: 165 ns +- 8 ns
+
+N4C2W2_F.BPP.txt WorstFit: Mean +- std dev: 165 ns +- 5 ns
+
+N4C2W2_G.BPP.txt WorstFit: Mean +- std dev: 165 ns +- 6 ns
+
+N4C2W2_H.BPP.txt WorstFit: Mean +- std dev: 164 ns +- 5 ns
+
+N4C2W2_I.BPP.txt WorstFit: Mean +- std dev: 162 ns +- 3 ns
+
+N4C2W2_J.BPP.txt WorstFit: Mean +- std dev: 163 ns +- 4 ns
+
+N4C2W2_K.BPP.txt WorstFit: Mean +- std dev: 164 ns +- 5 ns
+
+N4C2W2_L.BPP.txt WorstFit: Mean +- std dev: 162 ns +- 3 ns
+
+N4C2W2_M.BPP.txt WorstFit: Mean +- std dev: 163 ns +- 4 ns
+
+N4C2W2_N.BPP.txt WorstFit: Mean +- std dev: 163 ns +- 3 ns
+
+N4C2W2_O.BPP.txt WorstFit: Mean +- std dev: 163 ns +- 3 ns
+
+N4C2W2_P.BPP.txt WorstFit: Mean +- std dev: 163 ns +- 7 ns
+
+N4C2W2_Q.BPP.txt WorstFit: Mean +- std dev: 163 ns +- 5 ns
+
+N4C2W2_R.BPP.txt WorstFit: Mean +- std dev: 162 ns +- 4 ns
+
+N4C2W2_S.BPP.txt WorstFit: Mean +- std dev: 163 ns +- 4 ns
+
+N4C2W2_T.BPP.txt WorstFit: Mean +- std dev: 161 ns +- 2 ns
+
+N4C2W2_A.BPP.txt : Mean +- std dev: 129 us +- 13 us
+
+N4C2W2_B.BPP.txt : Mean +- std dev: 127 us +- 3 us
+
+N4C2W2_C.BPP.txt : Mean +- std dev: 126 us +- 1 us
+
+N4C2W2_D.BPP.txt : Mean +- std dev: 128 us +- 3 us
+
+N4C2W2_E.BPP.txt : Mean +- std dev: 127 us +- 1 us
+
+N4C2W2_F.BPP.txt : Mean +- std dev: 129 us +- 5 us
+
+N4C2W2_G.BPP.txt : Mean +- std dev: 126 us +- 1 us
+
+N4C2W2_H.BPP.txt : Mean +- std dev: 127 us +- 2 us
+
+N4C2W2_I.BPP.txt : Mean +- std dev: 127 us +- 1 us
+
+N4C2W2_J.BPP.txt : Mean +- std dev: 126 us +- 1 us
+
+N4C2W2_K.BPP.txt : Mean +- std dev: 127 us +- 2 us
+
+N4C2W2_L.BPP.txt : Mean +- std dev: 128 us +- 4 us
+
+N4C2W2_M.BPP.txt : Mean +- std dev: 128 us +- 3 us
+
+N4C2W2_N.BPP.txt : Mean +- std dev: 130 us +- 6 us
+
+N4C2W2_O.BPP.txt : Mean +- std dev: 127 us +- 4 us
+
+N4C2W2_P.BPP.txt : Mean +- std dev: 128 us +- 1 us
+
+N4C2W2_Q.BPP.txt : Mean +- std dev: 126 us +- 1 us
+
+N4C2W2_R.BPP.txt : Mean +- std dev: 126 us +- 1 us
+
+N4C2W2_S.BPP.txt : Mean +- std dev: 128 us +- 2 us
+
+N4C2W2_T.BPP.txt : Mean +- std dev: 126 us +- 1 us

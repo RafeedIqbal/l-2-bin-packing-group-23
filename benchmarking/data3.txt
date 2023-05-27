@@ -1,0 +1,88 @@
+
+N4C2W2_A.BPP.txt MinBin: Mean +- std dev: 503 us +- 27 us
+
+N4C2W2_B.BPP.txt MinBin: Mean +- std dev: 485 us +- 5 us
+
+
+
+
+
+
+
+
+
+N4C2W2_C.BPP.txt MinBin: Mean +- std dev: 495 us +- 43 us
+
+N4C2W2_D.BPP.txt MinBin: Mean +- std dev: 487 us +- 10 us
+
+N4C2W2_E.BPP.txt MinBin: Mean +- std dev: 490 us +- 11 us
+
+N4C2W2_F.BPP.txt MinBin: Mean +- std dev: 487 us +- 3 us
+
+N4C2W2_G.BPP.txt MinBin: Mean +- std dev: 495 us +- 16 us
+
+N4C2W2_H.BPP.txt MinBin: Mean +- std dev: 494 us +- 9 us
+
+N4C2W2_I.BPP.txt MinBin: Mean +- std dev: 485 us +- 5 us
+
+N4C2W2_J.BPP.txt MinBin: Mean +- std dev: 488 us +- 5 us
+
+N4C2W2_K.BPP.txt MinBin: Mean +- std dev: 489 us +- 5 us
+
+N4C2W2_L.BPP.txt MinBin: Mean +- std dev: 490 us +- 12 us
+
+N4C2W2_M.BPP.txt MinBin: Mean +- std dev: 488 us +- 4 us
+
+N4C2W2_N.BPP.txt MinBin: Mean +- std dev: 488 us +- 4 us
+
+N4C2W2_O.BPP.txt MinBin: Mean +- std dev: 487 us +- 8 us
+
+N4C2W2_P.BPP.txt MinBin: Mean +- std dev: 488 us +- 7 us
+
+N4C2W2_Q.BPP.txt MinBin: Mean +- std dev: 488 us +- 8 us
+
+N4C2W2_R.BPP.txt MinBin: Mean +- std dev: 488 us +- 9 us
+
+N4C2W2_S.BPP.txt MinBin: Mean +- std dev: 491 us +- 12 us
+
+N4C2W2_T.BPP.txt MinBin: Mean +- std dev: 487 us +- 6 us
+
+N4C2W2_A.BPP.txt ConstantBaseline: Mean +- std dev: 1.22 ms +- 0.01 ms
+
+N4C2W2_B.BPP.txt ConstantBaseline: Mean +- std dev: 1.24 ms +- 0.08 ms
+
+N4C2W2_C.BPP.txt ConstantBaseline: Mean +- std dev: 1.35 ms +- 0.09 ms
+
+N4C2W2_D.BPP.txt ConstantBaseline: Mean +- std dev: 1.33 ms +- 0.10 ms
+
+N4C2W2_E.BPP.txt ConstantBaseline: Mean +- std dev: 1.29 ms +- 0.11 ms
+
+N4C2W2_F.BPP.txt ConstantBaseline: Mean +- std dev: 1.28 ms +- 0.08 ms
+
+N4C2W2_G.BPP.txt ConstantBaseline: Mean +- std dev: 1.25 ms +- 0.05 ms
+
+N4C2W2_H.BPP.txt ConstantBaseline: Mean +- std dev: 1.23 ms +- 0.03 ms
+
+N4C2W2_I.BPP.txt ConstantBaseline: Mean +- std dev: 1.22 ms +- 0.01 ms
+
+N4C2W2_J.BPP.txt ConstantBaseline: Mean +- std dev: 1.23 ms +- 0.01 ms
+
+N4C2W2_K.BPP.txt ConstantBaseline: Mean +- std dev: 1.24 ms +- 0.06 ms
+
+N4C2W2_L.BPP.txt ConstantBaseline: Mean +- std dev: 1.23 ms +- 0.01 ms
+
+N4C2W2_M.BPP.txt ConstantBaseline: Mean +- std dev: 1.23 ms +- 0.01 ms
+
+N4C2W2_N.BPP.txt ConstantBaseline: Mean +- std dev: 1.22 ms +- 0.01 ms
+
+N4C2W2_O.BPP.txt ConstantBaseline: Mean +- std dev: 1.23 ms +- 0.02 ms
+
+N4C2W2_P.BPP.txt ConstantBaseline: Mean +- std dev: 1.23 ms +- 0.02 ms
+
+N4C2W2_Q.BPP.txt ConstantBaseline: Mean +- std dev: 1.23 ms +- 0.03 ms
+
+N4C2W2_R.BPP.txt ConstantBaseline: Mean +- std dev: 1.23 ms +- 0.03 ms
+
+N4C2W2_S.BPP.txt ConstantBaseline: Mean +- std dev: 1.22 ms +- 0.01 ms
+
+N4C2W2_T.BPP.txt ConstantBaseline: Mean +- std dev: 1.23 ms +- 0.02 ms
